@@ -1,4 +1,4 @@
-# Iris Flower Classification Using data scinece
+# Iris Flower Classification Using Machine learning
 
 ## Internship
 
